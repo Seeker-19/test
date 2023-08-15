@@ -1,5 +1,0 @@
-{{#user}
-Name: Anurag
-Skills: HTML, CSS, JS, Reactjs , mongodb, nodejs
-Email: kanswalanurag123@gmail.com
-{{/user}}
